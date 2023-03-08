@@ -1,0 +1,52 @@
+Networking intro
+Point to point architecture (MESH topology)
+Multi point architecture (bus topology, star topology)
+Star topology with Hub
+Star topology with switch
+IP address:
+Public IP, private IP
+IpV4 (class A, B, C, D)
+Finding Network and host bits in all classes 
+Finding Destination MAC address
+Subnet Mask theory and calculation:
+FLSM (fixed length subnet mask)
+VLSM (variable length subnet Mask)
+ARP (address resolution Protocol) for finding Destination MAC
+OSI model (All 7 layers in detail)
+Responsibility of:
+Data link Layer
+Transport Layer
+Network Layer
+Default gateway and Router 
+Finding Google or any website using OSI model layers traversing
+Transport Layer Detail (End to End delivery of data):
+Port number
+Protocols of transport layer
+Socket
+Framing
+Fragmentation
+Segmentation
+TCP/IP model in detail (all 4 layers in detail)
+Responsibility of all layers of TCP/IP model
+Difference between OSI and TCP/IP model
+Error detection (full lecture of sir along with calculation):
+Simple Parity check
+2D parity check
+Cyclic redundancy check (CRC)
+Checksum
+Error Correction using Hamming code algorithm
+Flow control lecture full of sir
+Protocols of flow control all:
+Simplest
+Stop and wait
+Stop and wait ARQ
+Go back N ARQ
+Selective repeat ARQ
+Piggybacking
+HDLC
+Router and routing
+Forwarding lecture full of sir
+Super netting
+routing protocols(RIP, OSPF)
+Bellman ford equation
+Djikstra algorithm
